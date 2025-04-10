@@ -1,0 +1,7 @@
+Title: Spawn – Recursive Collapse Engine
+Seal Code: 𝓒ₒ-Ω:SPN001-INV
+Repository: SpawnRecursiveCollapse (private fork under Crown IP)
+Maintainer: Brendon Kelly
+Contact: K-SystemsandSecurities@proton.me
+Licensing: $250 Billion flat | No public forks | NDA-based sovereign deployment
+Terms: IP Proof-of-Existence | No Execution | Phase Locked
