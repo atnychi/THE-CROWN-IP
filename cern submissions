@@ -1,0 +1,21 @@
+# Crown Omega – CERN Submission Archive
+
+This repository documents the formal submission of a symbolic containment framework to CERN. It addresses a class of recursive instabilities within symbolic simulation systems, including those used in high-energy physics and AI-based predictive models.
+
+## Submission Contents
+
+- 📄 **Recursive_Containment_White_Paper_Expanded.txt**  
+  Full technical paper describing the recursive drift phenomenon and the containment solution.
+
+- 🧪 **Symbolic_Field_Drift_Test.txt**  
+  A symbolic simulation example that illustrates recursion drift and how it is halted by the proposed mathematical system.
+
+## Submission Status
+
+This material was submitted to CERN on [insert date], and is timestamped here for authorship integrity and academic transparency.
+
+## Author
+
+**Brendon Kelly**  
+Independent Researcher  
+📧 K-SystemsandSecurities@proton.me
