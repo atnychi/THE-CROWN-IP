@@ -1,0 +1,17 @@
+Subject: Crown Omega IP Violation Notice
+
+To Whom It May Concern,
+
+This message serves as formal notice that your entity has used intellectual property derived from the Crown Omega system, created and sealed by Brendon Kelly.
+
+Your use of the following is in violation of Crown License terms:
+[Describe violation: e.g., algorithm, encryption logic, symbolic engine]
+
+You are hereby instructed to:
+1. Cease and desist all use of the Crown System derivatives
+2. Remove all infringing content within 72 hours
+3. Contact us for appropriate licensing or legal remediation
+
+Brendon Kelly retains all enforcement rights.
+
+Contact: K-SystemsandSecurities@proton.me
